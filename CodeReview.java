@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/**this is irrelevant**/
 class CodeReview {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
