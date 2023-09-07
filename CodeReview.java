@@ -1,9 +1,9 @@
 import java.util.Scanner;
-
+/**this is irrelevant**/
 class CodeReview {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+int random;
         // Sample code to be reviewed
         String codeToReview = "public class HelloWorld {\n" +
                               "    public static void main(String[] args) {\n" +
