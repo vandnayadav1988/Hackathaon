@@ -3,7 +3,7 @@ import java.util.Scanner;
 class CodeReview {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-int a,c;
+int a,b;
         // Sample code to be reviewed
         String codeToReview = "public class HelloWorld {\n" +
                               "    public static void main(String[] args) {\n" +
