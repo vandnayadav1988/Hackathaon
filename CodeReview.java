@@ -43,7 +43,6 @@ int a = 25;
         } else {
             System.out.println("Code review aborted.");
         }
-
         scanner.close();
     }
 }
