@@ -5,7 +5,7 @@ class CodeReview {
         Scanner scanner = new Scanner(System.in);
 int a=0;
 if (a==0){
-    
+    String dumb;
 }
         // Sample code to be reviewed
         String codeToReview = "public class HelloWorld {\n" +
