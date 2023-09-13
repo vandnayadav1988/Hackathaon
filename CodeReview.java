@@ -2,8 +2,17 @@ import java.util.Scanner;
 
 class CodeReview {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-int a,c;
+    Scanner scanner = new Scanner(System.in);
+        /*This code is not relevant :)*/
+int a = 25;
+        /*check if this below code show perormance issues*/
+        if (a==25){
+            
+        }
+        if (a==25)
+        {
+            String notNeeded ="";
+        }
         // Sample code to be reviewed
         String codeToReview = "public class HelloWorld {\n" +
                               "    public static void main(String[] args) {\n" +
@@ -24,7 +33,7 @@ int a,c;
         System.out.println("\nStart the code review (Y/N)?");
         String startReview = scanner.nextLine();
 
-        if (startReview.equalsIgnoreCase("Y")) {
+        if ((startReview.equalsIgnoreCase("Y")) && (a==25)) {
             // Simulate the review process
             System.out.println("\nCode Review in Progress...");
 
