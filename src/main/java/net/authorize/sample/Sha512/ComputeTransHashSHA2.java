@@ -13,6 +13,10 @@ public class ComputeTransHashSHA2 {
         String transId = "60115868980";
         String apiLogin = "5T9cRn9FK";
         String amount = "15.00";
+    int a=25;
+        if (a==25   )    {
+            String dumb;
+        }
         //transHashSHA2 represents the computed TransHash2 using SignatureKey for the given transaction
         //textToHash is formed by concatenating apilogin id , transId for the given transaction and transaction amount.
         // For more details please visit https://developer.authorize.net/support/hash_upgrade/?utm_campaign=19Q2%20MD5%20Hash%20EOL%20Partner&utm_medium=email&utm_source=Eloqua for implementation details.
