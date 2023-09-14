@@ -2,11 +2,9 @@ package net.authorize.sample.CustomerProfiles;
 
 import net.authorize.Environment;
 import net.authorize.api.contract.v1.*;
-
 import net.authorize.api.contract.v1.MerchantAuthenticationType;
 import net.authorize.api.controller.CreateCustomerPaymentProfileController;
 import net.authorize.api.controller.base.ApiOperationBase;
-
 //author @krgupta
 public class CreateCustomerPaymentProfile {
 	
