@@ -3,7 +3,7 @@ package net.authorize.sample.FraudManagement;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-import net.authorize.Environment;
+import net.authorize.Environment
 import net.authorize.api.contract.v1.ANetApiResponse;
 import net.authorize.api.contract.v1.AfdsTransactionEnum;
 import net.authorize.api.contract.v1.CreateTransactionRequest;
