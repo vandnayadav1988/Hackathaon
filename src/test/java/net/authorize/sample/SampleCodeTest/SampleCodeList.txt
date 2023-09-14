@@ -7,6 +7,7 @@ RecurringBilling.GetSubscriptionStatus	1	1
 RecurringBilling.GetSubscription	1	1
 RecurringBilling.UpdateSubscription	1	1
 CustomerProfiles.ValidateCustomerPaymentProfile	1	0
+
 CustomerProfiles.UpdateCustomerShippingAddress	1	1
 CustomerProfiles.UpdateCustomerProfile	1	1
 CustomerProfiles.UpdateCustomerPaymentProfile	1	1
