@@ -26,6 +26,4 @@ jobs:
           temperature: 0 # https://platform.openai.com/docs/api-reference/chat/create#chat/create-temperature
           max_tokens: #10000
           MAX_PATCH_LENGTH: # 10000
-          IGNORE/ignore: |
-              pom.xml
-              README.md
+          IGNORE/ignore: 
