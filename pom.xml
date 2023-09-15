@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.authorize.sample</groupId>
 	<artifactId>SampleCode</artifactId>
-	<packaging>jar</packaging>
+	<packaging>jar</pckaging>
 	<version>1.0</version>
 	<name>SampleCode</name>
 	<url>http://maven.apache.org</url>
