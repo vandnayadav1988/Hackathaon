@@ -28,7 +28,7 @@ public class GetHeldTransactionList{
 	        paging.setOffset(1);
 	        
 			getRequest.setPaging(paging);
-			
+			int a;
 			TransactionListSorting sorting = new TransactionListSorting();
 			sorting.setOrderBy(TransactionListOrderFieldEnum.ID);
 			sorting.setOrderDescending(true);
