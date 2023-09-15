@@ -10,7 +10,7 @@ CustomerProfiles.ValidateCustomerPaymentProfile	1	0
 CustomerProfiles.UpdateCustomerShippingAddress	1	1
 CustomerProfiles.UpdateCustomerProfile	1	1
 CustomerProfiles.UpdateCustomerPaymentProfile	1	1
-CustomerProfiles.GetCustomerShippingAddress	1	1
+CustomerProfiles.GetCustomerShippingAddress	1	 1
 CustomerProfiles.GetCustomerProfileIds	0	0
 CustomerProfiles.GetCustomerProfile	1	1
 CustomerProfiles.GetAcceptCustomerProfilePage	1	1
