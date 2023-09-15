@@ -21,7 +21,7 @@ public class GetHeldTransactionList{
 			GetUnsettledTransactionListRequest getRequest = new GetUnsettledTransactionListRequest();
 			getRequest.setMerchantAuthentication(merchantAuthenticationType);
 			getRequest.setStatus(TransactionGroupStatusEnum.PENDING_APPROVAL);
-			
+			int a;
 	        Paging paging = new Paging();
 	        paging.setLimit(100);
 	        paging.setOffset(1);
