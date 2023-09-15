@@ -9,7 +9,7 @@ import net.authorize.api.controller.base.ApiOperationBase;
 public class CreateAnAndroidPayTransaction {
 	public static ANetApiResponse run(String apiLoginId, String transactionKey) {
 		ApiOperationBase.setEnvironment(Environment.SANDBOX);
-
+int ben;
 		// Giving the merchant authentication information
 		MerchantAuthenticationType merchantAuthenticationType = new MerchantAuthenticationType();
 		merchantAuthenticationType.setName(apiLoginId);
