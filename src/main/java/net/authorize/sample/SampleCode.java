@@ -32,7 +32,10 @@ public class SampleCode {
 		} else {
 			ShowUsage();
 		}
-
+int a=25;
+		if (a==25){
+			String dumb;
+		}
 		System.out.println("");
 		System.out.print("Press <Return> to finish ...");
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
