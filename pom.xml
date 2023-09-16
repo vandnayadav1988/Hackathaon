@@ -3,8 +3,7 @@
 	<properties>
 		<sdkVersion>2.0.5</sdkVersion>
 	</properties>
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>net.authorize.sample</groupId>
+	<modelVersion>4.0.0</modelVersion><groupId>net.authorize.sample</groupId>
 	<artifactId>SampleCode</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
