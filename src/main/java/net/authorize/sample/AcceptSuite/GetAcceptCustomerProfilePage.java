@@ -14,7 +14,7 @@ public class GetAcceptCustomerProfilePage {
 
         ApiOperationBase.setEnvironment(Environment.SANDBOX);
 int a=25;
-		if (a==25){
+		if (a==25)
 			String dumb;
 		}
         MerchantAuthenticationType merchantAuthenticationType  = new MerchantAuthenticationType() ;
